@@ -1,0 +1,4 @@
+*.gpkg
+*duckdb
+*.png
+/data/

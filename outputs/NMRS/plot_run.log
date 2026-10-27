@@ -1,0 +1,18 @@
+Linking to GEOS 3.11.2, GDAL 3.7.2, PROJ 9.3.0; sf_use_s2() is TRUE
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning message:
+package 'dplyr' was built under R version 4.3.3 
+Coverage plots saved to outputs/NMRS/coveragePlots
+Warning message:
+In plot_NMRS_coverage() :
+  176 cells lack map coordinates; see unmapped_grid_cells.csv

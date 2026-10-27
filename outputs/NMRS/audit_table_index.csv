@@ -1,0 +1,13 @@
+"table","storage","path","size_MB"
+"overview","repository","C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/summaryTables/overview.csv",2e-04
+"duplicate_record_ids","repository","C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/summaryTables/duplicate_record_ids.csv",0
+"annual_coverage","repository","C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/summaryTables/annual_coverage.csv",0.0027
+"species_coverage","repository","C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/summaryTables/species_coverage.csv",0.0588
+"categories_taxon_rank","repository","C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/summaryTables/categories_taxon_rank.csv",1e-04
+"categories_identification_verification_status","repository","C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/summaryTables/categories_identification_verification_status.csv",1e-04
+"categories_occurrence_status","repository","C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/summaryTables/categories_occurrence_status.csv",0
+"categories_coordinate_uncertainty_m_","repository","C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/summaryTables/categories_coordinate_uncertainty_m_.csv",0
+"categories_country","repository","C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/summaryTables/categories_country.csv",1e-04
+"categories_dataset_name","repository","C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/summaryTables/categories_dataset_name.csv",1e-04
+"grid_period_coverage","repository","C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/summaryTables/grid_period_coverage.csv",0.5223
+"grid_overall_coverage","repository","C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/summaryTables/grid_overall_coverage.csv",0.0459

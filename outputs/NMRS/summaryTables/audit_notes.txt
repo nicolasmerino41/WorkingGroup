@@ -1,0 +1,16 @@
+Audit completed: 2026-10-27 16:59:04.467832
+Source: D:/NMRS/merged/NMRS_merged.csv
+Source bytes: 21997721032
+Source modified: 2026-10-27 16:51:35.204372
+DuckDB database: D:/NMRS/audit/database/NMRS.duckdb
+DuckDB temporary directory: D:/NMRS/audit/database/temp
+Large audit tables: D:/NMRS/audit/summaryTables
+Repository audit tables: C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/summaryTables
+Small-table threshold (MiB): 10
+Table-location index: C:/Users/MM-1/OneDrive/PhD/GitHub/WorkingGroup/outputs/NMRS/audit_table_index.csv
+Summary period width: 10
+All summaries retain duplicates; consult duplicate_record_ids.csv.
+Period assignment uses starting year, including uncertain date intervals.
+Recorded richness is not corrected for effort or detection.
+Distinct exact dates measure recording activity, not standardised sampling visits.
+Missing British grid references may include records outside Great Britain.

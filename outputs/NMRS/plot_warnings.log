@@ -1,0 +1,69 @@
+Linking to GEOS 3.11.2, GDAL 3.7.2, PROJ 9.3.0; sf_use_s2() is TRUE
+Warning: package 'dplyr' was built under R version 4.3.3
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning in scale_x_log10() :
+  log-10 transformation introduced infinite values.
+Warning: Removed 12 rows containing non-finite outside the scale range (`stat_bin()`).
+Warning in plot_NMRS_coverage() :
+  176 cells lack map coordinates; see unmapped_grid_cells.csv
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Warning: Using ragg device as default. Ignoring `type` and `antialias` arguments
+Coverage plots saved to outputs/NMRS/coveragePlots

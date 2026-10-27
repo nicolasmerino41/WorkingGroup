@@ -1,0 +1,14 @@
+Importing updated CSV into DuckDB; records remain on disk.
+Summarising: overview
+Summarising: duplicate_record_ids
+Summarising: annual_coverage
+Summarising: species_coverage
+Summarising: categories_taxon_rank
+Summarising: categories_identification_verification_status
+Summarising: categories_occurrence_status
+Summarising: categories_coordinate_uncertainty_m_
+Summarising: categories_country
+Summarising: categories_dataset_name
+Summarising: grid_period_coverage
+Summarising: grid_overall_coverage
+Audit complete: outputs/NMRS/summaryTables
