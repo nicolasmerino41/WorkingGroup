@@ -2,3 +2,4 @@
 *duckdb
 *.png
 /data/
+.Rproj.user
